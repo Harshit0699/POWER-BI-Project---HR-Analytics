@@ -1,3 +1,3 @@
 # Power BI HR Analytics Interactive Dashboard
+<img width="660" alt="HR analytics dashboard" src="https://github.com/Harshit0699/Power-BI-HR-Analytics-Dashboard/assets/137423605/bf3d5f3f-56d3-4442-8e8a-f266933c8778">
 
-<img width="673" alt="image" src="https://github.com/Harshit0699/POWER-BI-Project---HR-Analytics/assets/137423605/1b9d035b-fb70-44db-ba64-b2654ebb9748">
